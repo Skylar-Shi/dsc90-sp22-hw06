@@ -5,9 +5,11 @@ This is a map of SoHo, London with John Snow's data of cholera deaths at each ad
 
 <iframe src='../soho-map.html' width=938 height=565 frameBorder=0></iframe>
 
+
 This is a 3D graph that visualizes Sir Francis Galton's heights dataset.
 
 <iframe src='../galton_fig.html' width=750 height=770 frameBorder=0></iframe>
+
 
 This is a choropleth that visualizes the population in each department in France in 2013.
 
