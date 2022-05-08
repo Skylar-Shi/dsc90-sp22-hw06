@@ -1,7 +1,9 @@
 # dsc90-sp22-hw06
+Homework 6 for History of Data Science, Spring 2022 @ UC San Diego.
+<br>
 # Homework 6 – History of Data Science
 ## Yutian Shi 
-Homework 6 for History of Data Science, Spring 2022 @ UC San Diego.
+<br>
 <br>
 ## Question 1
 This is a map of SoHo, London with John Snow's data of cholera deaths at each address (circles) and water pump locations (pins). The size of the circles is proportionate to the number of deaths at that location.
