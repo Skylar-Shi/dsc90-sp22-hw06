@@ -15,5 +15,5 @@ This is a 3D graph that visualizes Sir Francis Galton's heights dataset.
 ## Question 3
 <br>
 This is a choropleth that visualizes the population in each department in France in 2013.
-<iframe src='./france_fig-2.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='./france_fig-3.html' width=800 height=600 frameBorder=0></iframe>
 <br>
