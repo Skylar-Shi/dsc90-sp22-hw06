@@ -5,7 +5,7 @@ Homework 6 for History of Data Science, Spring 2022 @ UC San Diego.
 ## Question 1
 <br>
 This is a map of SoHo, London with John Snow's data of cholera deaths at each address (circles) and water pump locations (pins). The size of the circles is proportionate to the number of deaths at that location.
-<iframe src='./soho-map.html' width=860 height=565 frameBorder=0></iframe>
+<iframe src='./soho-map.html' width=800 height=600 frameBorder=0></iframe>
 <br>
 ## Question 2
 <br>
@@ -15,5 +15,5 @@ This is a 3D graph that visualizes Sir Francis Galton's heights dataset.
 ## Question 3
 <br>
 This is a choropleth that visualizes the population in each department in France in 2013.
-<iframe src='./france_fig.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='./france_fig-2.html' width=800 height=600 frameBorder=0></iframe>
 <br>
