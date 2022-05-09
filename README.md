@@ -1,5 +1,5 @@
 # Homework 6 – History of Data Science
-## Yutian Shi 
+## Yutian Shi (yus029@ucsd.edu)
 Homework 6 for History of Data Science, Spring 2022 @ UC San Diego.
 <br>
 ## Question 1
